@@ -1,0 +1,5 @@
+# robots.txt dosyası
+
+User-agent: *
+Disallow:
+Sitemap: https://yilmazmuharrem.com/sitemap.xml
